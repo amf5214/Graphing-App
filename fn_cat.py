@@ -6,6 +6,11 @@ from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg
 from matplotlib.figure import Figure
 import logging as lg
 
+"""
+This file creates the visual elements of the App class and there are
+two files that depend on it, main.py and __initUI__.py
+"""
+
 
 def all_functs(self):
     lg.info('all_functs ran')
