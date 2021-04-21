@@ -171,5 +171,5 @@ def pic_label(self):
     pixmap = QPixmap('window_icon2.png')
     pic.setPixmap(pixmap)
     pic.setAlignment(Qtc.Qt.AlignCenter)
-    self.grid.addWidget(pic, 0, 0, 5, 3)
+    self.grid.addWidget(pic, 0, 0, 5, 5)
     lg.info('pic_label ran')
