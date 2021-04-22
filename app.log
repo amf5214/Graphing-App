@@ -1,13 +1,13 @@
-INFO : 2021-04-21 01:33:17,225 : setup ran
-INFO : 2021-04-21 01:33:17,481 : pic_label ran
-INFO : 2021-04-21 01:33:17,501 : startup ran
-INFO : 2021-04-21 01:33:17,501 : all_functs ran
-INFO : 2021-04-21 01:33:35,893 : run has been run because the start button has been clicked
-INFO : 2021-04-21 01:33:35,893 : scr_clr_h ran
-INFO : 2021-04-21 01:33:35,893 : main ran
-INFO : 2021-04-21 01:33:38,623 : exit has been run because the exit button was pushed
-INFO : 2021-04-21 01:33:38,623 : scr_clr_h ran
-INFO : 2021-04-21 01:33:38,623 : setup ran
-INFO : 2021-04-21 01:33:38,623 : pic_label ran
-INFO : 2021-04-21 01:33:38,639 : startup ran
-INFO : 2021-04-21 01:33:38,639 : all_functs ran
+INFO : 2021-04-22 06:06:42,628 : setup ran
+INFO : 2021-04-22 06:06:43,186 : pic_label ran
+INFO : 2021-04-22 06:06:43,202 : startup ran
+INFO : 2021-04-22 06:06:43,202 : all_functs ran
+INFO : 2021-04-22 06:07:30,846 : run has been run because the start button has been clicked
+INFO : 2021-04-22 06:07:30,847 : scr_clr_h ran
+INFO : 2021-04-22 06:07:30,847 : main ran
+INFO : 2021-04-22 06:07:32,981 : exit has been run because the exit button was pushed
+INFO : 2021-04-22 06:07:32,981 : scr_clr_h ran
+INFO : 2021-04-22 06:07:32,981 : setup ran
+INFO : 2021-04-22 06:07:32,986 : pic_label ran
+INFO : 2021-04-22 06:07:32,998 : startup ran
+INFO : 2021-04-22 06:07:32,999 : all_functs ran
